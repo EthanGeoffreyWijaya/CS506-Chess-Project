@@ -1,0 +1,21 @@
+# Ignore .env file
+.env
+
+# Ignore __pycache__
+__pycache__
+
+# Ignore .DS_Store
+.DS_Store 
+
+# Ignore Move Scores Files
+move_scores/
+
+# Ignore Coverage Files
+.coverage
+
+# Ignore Profile Files
+*.lprof
+profiles/
+
+# Ignore Connect2DB.py
+Connect2DB.py
